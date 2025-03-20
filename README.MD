@@ -1,4 +1,10 @@
-Modelo treinado para classificar numeros de imagens. 
+Modelo treinado para ler numero baseado no dataset Mnist
+
+Hoje o modelo só consegue reconhecer imagens com fundo preto e numero branco
+Melhorias : 
+
+        -Melhorar processamento de imagens vindas do PC
+        -Tentar aplicar formatação que se adeque com dados usados para treino.
 
 
 Windows
